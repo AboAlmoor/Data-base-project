@@ -1,0 +1,8 @@
+ERD:
+
+https://app.diagrams.net/#G1fnmGilleJHEQ4aqsWn_ApKvp_kGwrq49
+
+
+Relational Model:
+
+https://app.diagrams.net/#G1JPo2vpsZLUlcWSYxIx_WR9eiW6LH4RcN
