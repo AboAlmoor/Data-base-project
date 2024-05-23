@@ -1,0 +1,1 @@
+The Mercedes Cars company Management System aims to streamline the handling of car-related data for a company involved in selling cars. The system will manage information about different cars, engines, specifications, customers, insurance transactions, departments, sales transactions, employees, supervisors, and user reviews
