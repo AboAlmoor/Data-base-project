@@ -39,9 +39,9 @@ The system supports a wide range of SQL operations including:
   - Subqueries and nested queries.
 
 - ✏️ Data Modification:
-  - <p>INSERT</p> statements for all tables.
-  - <p>UPDATE</p> operations for critical fields.
-  - <p>DELETE</p> operations with proper referential integrity.
+  - **INSERT** statements for all tables.
+  - **UPDATE** operations for critical fields.
+  - **DELETE** operations with proper referential integrity.
 
 
 ## 📝 Example Queries
